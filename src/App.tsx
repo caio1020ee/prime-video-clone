@@ -23,7 +23,7 @@ export default function App() {
             to="/checkout"
             className="bg-white text-black text-base lg:text-lg font-medium px-5 py-3 rounded-xl shadow hover:bg-neutral-200 transition mb-6 w-fit"
           >
-            Go to Amazon.com to watch
+           Quero assinar
           </Link>
 
           <span className="text-white/60 text-sm mt-2">
